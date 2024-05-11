@@ -1,0 +1,679 @@
+Apple Pay:
+
+      Apple Pay Information:  
+        Platform ID: N5B2M00417820000
+        SEID: 044D1F43ED1B900223630505253190318B04766A130AAF2E
+        Device: 0xd2
+        Production Signed: Yes
+        Restricted Mode: No
+        Hardware: 0x00000007
+        Firmware: 0x0700
+        JCOP OS: 19.03
+
+      Controller Information:  
+        Hardware: b2.2 ()
+        Firmware: 1.9b rev 143664
+        Middleware: 5.1.2.34
+
+Audio:
+
+    Devices:
+
+        MacBook Air Microphone:
+
+          Default Input Device: Yes
+          Input Channels: 1
+          Manufacturer: Apple Inc.
+          Current SampleRate: 48000
+          Transport: Built-in
+          Input Source: MacBook Air Microphone
+
+        MacBook Air Speakers:
+
+          Default Output Device: Yes
+          Default System Output Device: Yes
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: Built-in
+          Output Source: MacBook Air Speakers
+
+Bluetooth:
+
+      Bluetooth Controller:
+          Address: C4:35:D9:B6:0A:61
+          State: On
+          Chipset: BCM_4387
+          Discoverable: Off
+          Firmware Version: 21.5.581.1925
+          Product ID: 0x4A09
+          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >
+          Transport: PCIe
+          Vendor ID: 0x004C (Apple)
+      Not Connected:
+          Bounce 101:
+              Address: 7E:34:9D:F3:D9:1B
+              Firmware Version: 0.0.0
+              Minor Type: Headset
+          BT600:
+              Address: 63:C0:96:7E:C6:80
+              Minor Type: Headphones
+          LAPTOP-1JBIHQVR:
+              Address: A8:41:F4:3C:39:A2
+              Vendor ID: 0x0006
+              Product ID: 0x0001
+              Firmware Version: 10.0.0
+              Minor Type: LaptopComputer
+          Rockerz 450 Pro:
+              Address: 11:11:22:CC:CC:2D
+              Minor Type: Headset
+          ZEB-SOUND BOMB 1:
+              Address: 41:42:C8:39:39:6E
+              Minor Type: Headset
+
+Camera:
+
+    FaceTime HD Camera:
+
+      Model ID: FaceTime HD Camera
+      Unique ID: FDF90FEB-59E5-4FCF-AABD-DA03C4E19BFB
+
+Controller:
+
+      Model Identifier: Mac14,2
+      Firmware Version: iBoot-10151.101.3
+      Boot UUID: DEFB8980-0304-4C73-B655-900E42D5B757
+      Boot Policy:  
+        Secure Boot: Full Security
+        System Integrity Protection: Enabled
+        Signed System Volume: Enabled
+        Kernel CTRR: Enabled
+        Boot Arguments Filtering: Enabled
+        Allow All Kernel Extensions: No
+        User Approved Privileged MDM Operations: No
+        DEP Approved Privileged MDM Operations: No
+
+Firewall:
+
+    Firewall Settings:
+
+      Mode: Allow all incoming connections
+      Firewall Logging: Yes
+      Stealth Mode: No
+
+Graphics/Displays:
+
+    Apple M2:
+
+      Chipset Model: Apple M2
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 8
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+      Displays:
+        Color LCD:
+          Display Type: Built-in Liquid Retina Display
+          Resolution: 2560 x 1664 Retina
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: Mac14,2
+      Model Number: MLY33HN/A
+      Chip: Apple M2
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 8 GB
+      System Firmware Version: 10151.101.3
+      OS Loader Version: 10151.101.3
+      Serial Number (system): K4KWY3069J
+      Hardware UUID: 3C778D63-62D0-52B5-81D7-7EE40CE05119
+      Provisioning UDID: 00008112-001478420A88C01E
+      Activation Lock Status: Disabled
+
+Language & Region:
+
+    User Settings:
+
+      Requested Linguistic Assets: en, hi, fi, de, fr, tr, hu, nb, nn, pl, vi, nl, sv, es, it, ro
+      Siri Language: en-IN
+      Siri Voice Gender: Female
+      Siri Voice Language: en-IN
+      Calendar: Gregorian
+      Country Code: IN
+      Current Input Source: com.apple.keylayout.ABC-India
+      Language Code: en
+      Locale: en_IN
+      Preferred Interface Languages: en-IN, en-US
+      Uses Metric System: Yes
+
+    System Settings:
+
+      Country Code: IN
+      OS Interface Languages: en, en-GB, en-AU, en-IN, zh-Hans, zh-Hant, zh-HK, ja, es, es-419, fr, fr-CA, de, ru, pt-BR, pt-PT, it, ko, tr, nl, ar, th, sv, da, vi, nb, pl, fi, id, he, el, ro, hu, cs, ca, sk, uk, hr, ms, hi
+      System Preferred Interface Languages: en-IN, en-US
+      Locale: en_IN
+      Text Direction: Left-To-Right
+      Uses Metric System: No
+
+    Recovery Partition Settings:
+
+      Keyboard Code: -3
+      Locale: en-GB
+
+Locations:
+
+    Automatic:
+
+      Active Location: Yes
+      Services:
+        Ethernet Adapter (en3):
+          Type: Ethernet
+          BSD Device Name: en3
+          Hardware (MAC) Address: 32:67:37:13:ed:db
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+        Ethernet Adapter (en4):
+          Type: Ethernet
+          BSD Device Name: en4
+          Hardware (MAC) Address: 32:67:37:13:ed:dc
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+        Thunderbolt Bridge:
+          Type: Bridge
+          BSD Device Name: bridge0
+          Hardware (MAC) Address: 36:65:b9:30:ae:c0
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+        Wi-Fi:
+          Type: IEEE80211
+          BSD Device Name: en0
+          Hardware (MAC) Address: c4:35:d9:b6:f0:9a
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+          IEEE80211:
+              Join Mode Fallback: Do Nothing
+              Power Enabled: 1
+              Remember Joined Networks: 1
+              Version: 5000
+
+Memory:
+
+      Memory: 8 GB
+      Type: LPDDR5
+      Manufacturer: Hynix
+
+NVMExpress:
+
+    Apple SSD Controller:
+
+        APPLE SSD AP0256Z:
+
+          Capacity: 251 GB (2,51,00,01,93,024 bytes)
+          TRIM Support: Yes
+          Model: APPLE SSD AP0256Z
+          Revision: 373.100.
+          Serial Number: 0ba01f11e4d8aa1f
+          Detachable Drive: No
+          BSD Name: disk0
+          Partition Map Type: GPT (GUID Partition Table)
+          Removable Media: No
+          S.M.A.R.T. status: Verified
+          Volumes:
+            iSCPreboot:
+              Capacity: 524.3 MB (52,42,88,000 bytes)
+              BSD Name: disk0s1
+              Content: Apple_APFS_ISC
+            Macintosh HD:
+              Capacity: 245.11 GB (2,45,10,71,95,904 bytes)
+              BSD Name: disk0s2
+              Content: Apple_APFS
+            Recovery:
+              Capacity: 5.37 GB (5,36,86,64,064 bytes)
+              BSD Name: disk0s3
+              Content: Apple_APFS_Recovery
+
+Network:
+
+    Ethernet Adapter (en3):
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: en3
+      IPv4:
+          Configuration Method: DHCP
+      IPv6:
+          Configuration Method: Automatic
+      Ethernet:
+          MAC Address: 32:67:37:13:ed:db
+          Media Options: 
+          Media Subtype: none
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 0
+
+    Ethernet Adapter (en4):
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: en4
+      IPv4:
+          Configuration Method: DHCP
+      IPv6:
+          Configuration Method: Automatic
+      Ethernet:
+          MAC Address: 32:67:37:13:ed:dc
+          Media Options: 
+          Media Subtype: none
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 1
+
+    Thunderbolt Bridge:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: bridge0
+      IPv4:
+          Configuration Method: DHCP
+      IPv6:
+          Configuration Method: Automatic
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 2
+
+    Wi-Fi:
+
+      Type: AirPort
+      Hardware: AirPort
+      BSD Device Name: en0
+      IPv4 Addresses: 192.168.0.87
+      IPv4:
+          Additional Routes:
+              Destination Address: 192.168.0.87
+              Subnet Mask: 255.255.255.255
+              Destination Address: 169.254.0.0
+              Subnet Mask: 255.255.0.0
+          Addresses: 192.168.0.87
+          ARP Resolved Hardware Address: 7c:5a:1c:a8:a8:e0
+          ARP Resolved IP Address: 192.168.0.1
+          Configuration Method: DHCP
+          Confirmed Interface Name: en0
+          Interface Name: en0
+          Network Signature: IPv4.Router=192.168.0.1;IPv4.RouterHardwareAddress=7c:5a:1c:a8:a8:e0
+          Router: 192.168.0.1
+          Subnet Masks: 255.255.252.0
+      IPv6:
+          Configuration Method: Automatic
+      DNS:
+          Server Addresses: 192.168.0.1
+      DHCP Server Responses:
+          Domain Name Servers: 192.168.0.1
+          Lease Duration (seconds): 0
+          DHCP Message Type: 0x05
+          Routers: 192.168.0.1
+          Server Identifier: 192.168.0.1
+          Subnet Mask: 255.255.252.0
+      Ethernet:
+          MAC Address: c4:35:d9:b6:f0:9a
+          Media Options: 
+          Media Subtype: Auto Select
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 3
+
+Power:
+
+    Battery Information:
+
+      Model Information:
+          Serial Number: F5D32125MMD10DLA9
+          Device Name: bq40z651
+          Pack Lot Code: 0
+          PCB Lot Code: 0
+          Firmware Version: 0b00
+          Hardware Revision: 100
+          Cell Revision: f914
+      Charge Information:
+          The battery’s charge is below the warning level: No
+          Fully Charged: No
+          Charging: No
+          State of Charge (%): 55
+      Health Information:
+          Cycle Count: 182
+          Condition: Normal
+          Maximum Capacity: 91%
+
+    System Power Settings:
+
+      AC Power:
+          System Sleep Timer (Minutes): 1
+          Disk Sleep Timer (Minutes): 10
+          Display Sleep Timer (Minutes): 10
+          Sleep on Power Button: Yes
+          Wake on LAN: Yes
+          Hibernate Mode: 3
+          Low Power Mode: No
+          Prioritize Network Reachability Over Sleep: No
+      Battery Power:
+          System Sleep Timer (Minutes): 1
+          Disk Sleep Timer (Minutes): 10
+          Display Sleep Timer (Minutes): 2
+          Sleep on Power Button: Yes
+          Wake on LAN: No
+          Current Power Source: Yes
+          Hibernate Mode: 3
+          Low Power Mode: No
+          Prioritize Network Reachability Over Sleep: No
+          Reduce Brightness: Yes
+
+    Hardware Configuration:
+
+      UPS Installed: No
+
+    AC Charger Information:
+
+      Connected: No
+      Charging: No
+
+    Power Events:
+
+        Next Scheduled Events:
+
+              appPID: 87
+              Type: Wake
+              Scheduled By: com.apple.alarm.user-invisible-com.apple.acmd.alarm
+              Time: 03/05/24, 1:16 PM
+              UserVisible: 0
+
+              appPID: 392
+              Type: Wake
+              Scheduled By: com.apple.alarm.user-invisible-com.apple.calaccessd.travelEngine.periodicRefreshTimer
+              Time: 03/05/24, 3:00 PM
+              UserVisible: 0
+
+              appPID: 87
+              Type: Wake
+              Scheduled By: com.apple.alarm.user-invisible-com.apple.acmd.alarm
+              Time: 03/05/24, 6:23 PM
+              UserVisible: 0
+
+              appPID: 445
+              Type: Wake
+              Scheduled By: com.apple.alarm.user-invisible-com.apple.calaccessd.travelEngine.periodicRefreshTimer
+              Time: 03/05/24, 6:26 PM
+              UserVisible: 0
+
+              appPID: 87
+              Type: Wake
+              Scheduled By: com.apple.alarm.user-invisible-com.apple.acmd.alarm
+              Time: 03/05/24, 11:14 PM
+              UserVisible: 0
+
+              appPID: 87
+              Type: Wake
+              Scheduled By: com.apple.alarm.user-invisible-com.apple.acmd.alarm
+              Time: 04/05/24, 10:56 AM
+              UserVisible: 0
+
+Printer Software:
+
+    PPDs:
+
+      PPDs: 
+
+    Printers:
+
+      Printers: 
+
+    Image Capture Devices:
+
+      Image Capture Devices: 
+
+    Image Capture Support:
+
+      Image Capture Support:
+          Path: /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app/Contents/Info.plist
+          Version: 607
+
+    System Library Extensions:
+
+      System Library Extensions:
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleXserveRAID.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/FireWireStorageDeviceSpecifics.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/USBStorageDeviceSpecifics.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleATAPIStorage.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SCSIDeviceSpecifics.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SonyXDCAMDriver.kext
+          Version: 556
+          Path: /System/Library/Extensions/AFKACIPCKext.kext
+          Version: 1.0
+          Path: /System/Library/Extensions/AppleHIDKeyboardEmbedded.kext
+          Version: 1.2.0
+          Path: /System/Library/Extensions/IOStreamFamily.kext/Contents/PlugIns/IOStreamUserClient.kext
+          Version: 1.1.0
+          Path: /System/Library/Extensions/AppleBSDKextStarter.kext/Contents/PlugIns/AppleBSDKextStarterVPN.kext
+          Version: 1.0
+          Path: /System/Library/Extensions/AppleBSDKextStarter.kext/Contents/PlugIns/AppleBSDKextStarterTMPFS.kext
+          Version: 1.0
+          Path: /System/Library/Extensions/AppleTopCase.kext
+          Version: 7440.8
+          Path: /System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseDriverV2.kext
+          Version: 7440.8
+          Path: /System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseActuatorHIDDriver.kext
+          Version: 7440.8
+          Path: /System/Library/Extensions/IOVideoFamily.kext/Contents/PlugIns/IOVideoDeviceUserClient.kext
+          Version: 1.2.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriver.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDUserClient.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriverSafeBoot.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/IOUSBHIDDriverSafeBoot.kext
+          Version: 900.4.2
+          Path: /System/Library/Extensions/CellPhoneHelper.kext
+          Version: 1.4.0
+          Path: /System/Library/Extensions/IOUSBHostFamily.kext/Contents/PlugIns/IOUSBHostHIDDeviceSafeBoot.kext
+          Version: 1.2
+
+    Library Extensions:
+
+      Library Extensions: 
+
+Printers:
+
+      Status: The printers list is empty. To add printers, choose Apple menu > System Settings…, click Printers & Scanners, and then click Add Printer, Scanner, or Fax…
+      CUPS Version: CUPS/2.3.4 (macOS 14.4.1; arm64) IPP/2.0
+
+SPI:
+
+    Apple Internal Keyboard / Trackpad:
+
+      Product ID: 0x0351
+      Vendor ID: 0
+      ST Version: 2.40
+      MT Version: 6.50
+      Serial Number: F0T319711G80V7CA0+FGG
+      Manufacturer: Apple
+      Location ID: 0x000000a5
+      Hardware ID: 0x0002
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 14.4.1 (23E224)
+      Kernel Version: Darwin 23.4.0
+      Boot Volume: Macintosh HD
+      Boot Mode: Normal
+      Computer Name: Jeevan’s MacBook Air
+      User Name: Jeevan Naidu (jeevan)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 1 hour, 4 minutes
+
+Storage:
+
+    Data:
+
+      Free: 119.24 GB (1,19,24,47,05,792 bytes)
+      Capacity: 245.11 GB (2,45,10,71,95,904 bytes)
+      Mount Point: /System/Volumes/Data
+      File System: APFS
+      Writable: Yes
+      Ignore Ownership: No
+      BSD Name: disk3s5
+      Volume UUID: 3C03D20D-2A25-4CA1-9058-2CAD193D43EE
+      Physical Drive:
+          Device Name: APPLE SSD AP0256Z
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: Apple Fabric
+          Internal: Yes
+          Partition Map Type: Unknown
+          S.M.A.R.T. Status: Verified
+
+    Macintosh HD:
+
+      Free: 119.24 GB (1,19,24,47,05,792 bytes)
+      Capacity: 245.11 GB (2,45,10,71,95,904 bytes)
+      Mount Point: /
+      File System: APFS
+      Writable: No
+      Ignore Ownership: No
+      BSD Name: disk3s1s1
+      Volume UUID: 0963BD4B-BA05-44DA-A1E5-A2701A7ED530
+      Physical Drive:
+          Device Name: APPLE SSD AP0256Z
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: Apple Fabric
+          Internal: Yes
+          Partition Map Type: Unknown
+          S.M.A.R.T. Status: Verified
+
+Thunderbolt/USB4:
+
+    Thunderbolt/USB4 Bus 1:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Air
+      UID: 0x05ACA20C46CC2BB1
+      Route String: 0
+      Domain UUID: 6EBB8596-77C5-42DE-8113-744235BF8F51
+      Port:
+          Status: No device connected
+          Link Status: 0x100
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 2
+
+    Thunderbolt/USB4 Bus 0:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Air
+      UID: 0x05ACA20C46CC2BB0
+      Route String: 0
+      Domain UUID: CD5BCC2F-4756-45C4-B077-64FD3750D7EF
+      Port:
+          Status: No device connected
+          Link Status: 0x100
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 1
+
+USB:
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleT8112USBXHCI
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleT8112USBXHCI
+
+Volumes:
+
+    home:
+
+      Type: autofs
+      Mount Point: /System/Volumes/Data/home
+      Mounted From: map auto_home
+      Automounted: Yes
+
+Wi-Fi:
+
+      Software Versions:
+          CoreWLAN: 16.0 (1657)
+          CoreWLANKit: 16.0 (1657)
+          Menu Extra: 17.0 (1728)
+          System Information: 15.0 (1502)
+          IO80211 Family: 12.0 (1200.13.0)
+          Diagnostics: 11.0 (1163)
+          AirPort Utility: 6.3.9 (639.23)
+      Interfaces:
+        en0:
+          Card Type: Wi-Fi  (0x14E4, 0x4387)
+          Firmware Version: wl0: Jan 20 2024 04:08:41 version 20.103.12.0.8.7.171 FWID 01-e09d2675
+          MAC Address: c4:35:d9:b6:f0:9a
+          Locale: ETSI
+          Country Code: IN
+          Supported PHY Modes: 802.11 a/b/g/n/ac/ax
+          Supported Channels: 1 (2GHz), 2 (2GHz), 3 (2GHz), 4 (2GHz), 5 (2GHz), 6 (2GHz), 7 (2GHz), 8 (2GHz), 9 (2GHz), 10 (2GHz), 11 (2GHz), 12 (2GHz), 13 (2GHz), 36 (5GHz), 40 (5GHz), 44 (5GHz), 48 (5GHz), 52 (5GHz), 56 (5GHz), 60 (5GHz), 64 (5GHz), 100 (5GHz), 104 (5GHz), 108 (5GHz), 112 (5GHz), 116 (5GHz), 120 (5GHz), 124 (5GHz), 128 (5GHz), 132 (5GHz), 136 (5GHz), 140 (5GHz), 144 (5GHz), 149 (5GHz), 153 (5GHz), 157 (5GHz), 161 (5GHz), 165 (5GHz)
+          Wake On Wireless: Supported
+          AirDrop: Supported
+          Auto Unlock: Supported
+          Status: Connected
+          Current Network Information:
+            Student:
+              PHY Mode: 802.11ac
+              Channel: 149 (5GHz, 40MHz)
+              Country Code: IN
+              Network Type: Infrastructure
+              Security: WPA2 Personal
+              Signal / Noise: -37 dBm / -93 dBm
+              Transmit Rate: 324
+              MCS Index: 8
+        awdl0:
+          MAC Address: ee:81:dc:6f:50:a8
+          Supported Channels: 1 (2GHz), 2 (2GHz), 3 (2GHz), 4 (2GHz), 5 (2GHz), 6 (2GHz), 7 (2GHz), 8 (2GHz), 9 (2GHz), 10 (2GHz), 11 (2GHz), 12 (2GHz), 13 (2GHz), 36 (5GHz), 40 (5GHz), 44 (5GHz), 48 (5GHz), 52 (5GHz), 56 (5GHz), 60 (5GHz), 64 (5GHz), 100 (5GHz), 104 (5GHz), 108 (5GHz), 112 (5GHz), 116 (5GHz), 120 (5GHz), 124 (5GHz), 128 (5GHz), 132 (5GHz), 136 (5GHz), 140 (5GHz), 144 (5GHz), 149 (5GHz), 153 (5GHz), 157 (5GHz), 161 (5GHz), 165 (5GHz)
+          Current Network Information:
+              Network Type: Infrastructure
+
